@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-by-side/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Always By Side](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-by-side/) |
+| **Get License** | [Secure Licensing Rights for Always By Side](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-by-side/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I can feel your heartbeat through the rhythm of the night
+> Shadows dancing softly in the fading candlelight
+> Every time you look at me, I leave the world behind
+> I just want to hold you and be always by your side
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

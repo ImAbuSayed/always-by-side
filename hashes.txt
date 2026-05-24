@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Always By Side
+
+This log tracks the cryptographic history and versioning for the song **Always By Side** (always-by-side).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-25T04:36:18.147192 | `v1` | `95488ffc83fcbc24976dda136f1beccbc43b37983490eaf938ea37290fd4dd26` | `4030e8c925bf90e0389151b5322bcfff9ad30cd2add598cf7223c899518b0683` | `2026-05-25_always-by-side-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

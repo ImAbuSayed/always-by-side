@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/always-by-side/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Always By Side](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-by-side/) |
+| **Get License** | [Secure Licensing Rights for Always By Side](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/always-by-side/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2062)
 
 ---
 
